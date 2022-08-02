@@ -1,36 +1,37 @@
 # Wildbeast
 
-This project is part of [Origamid](https://www.origamid.com) courses, the initial design was done by André who owns Origamid. The code was done in the 'Grid Layout' course.
+Este projeto faz parte dos cursos de [Origamid](https://www.origamid.com), o desenho inicial foi feito por André que é dono da Origamid. O código foi feito no curso 'Grid Layout'.
 
-The project consists of practicing Grid Layout.
+O projeto consiste em praticar Grid Layout.
 
-[Access the website here.](https://jhonnathan-wildbeast-origamid.netlify.app/)
-## Demo
+[Acesse o site aqui](https://jhonnathan-wildbeast.netlify.app/)
+## Demonstração
 
 ![Wildbeast Demo](https://user-images.githubusercontent.com/82620787/174452263-d7053e1f-67f3-40ef-81a2-0d7068bb4287.png)
 ## More Information
 
-Website built entirely from scratch and responsive. HTML was used in the structure, CSS Flexbox was used in some parts, but in general Grid Layout was used- HTML
+Site construído inteiramente do zero e responsivo. HTML foi usado na estrutura, CSS Flexbox foi usado em algumas partes, mas em geral foi usado Grid Layout.
 - HTML
 - CSS
-## Functionalities
+## Funcionalidades
 
 - Portfolio
-## Running Locally
+## Ferramentas Usadas
 
-
+**Front-end:** HTML, CSS
+## Rodando Locamente
 
 ```bash
-    # Clone the project
+    # Clone o projeto
     $ git clone https://github.com/jhonnathandc/origamid/tree/main/lobo
     
-    # Go into the repository
+    # Entre no repositório
 
-    # Go to index.html
+    # Entre em index.html
 ```
 
 
-## Authors
+## Autores
 
 - [Origamid Site](https://www.origamid.com)
 
@@ -38,25 +39,20 @@ Website built entirely from scratch and responsive. HTML was used in the structu
 
 - [Origamid Github](https://github.com/origamid)
 
+## Licença
 
-# Hello, I'm Jhonnathan! 👋
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
-### 🚀 About me
-I'm a front-end developer person...
+# Olá, meu nome é Jhonnathan! 👋
 
-### 🛠 Skills
+
+### 🚀 Mais sobre mim
+Sou um desenvolvedor Front End...
+
+### 🛠 Habilidades
 Javascript, HTML, CSS...
 
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnathan-cora-6427661b0/)
-
-
-## Stack
-
-**Front-end:** HTML, CSS
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
