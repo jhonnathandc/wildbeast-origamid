@@ -23,7 +23,7 @@ Site construído inteiramente do zero e responsivo. HTML foi usado na estrutura,
 
 ```bash
     # Clone o projeto
-    $ git clone https://github.com/jhonnathandc/origamid/tree/main/lobo
+    $ git clone https://github.com/jhonnathandc/wildbeast-origamid
     
     # Entre no repositório
 
