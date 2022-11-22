@@ -4,7 +4,7 @@ Este projeto faz parte dos cursos de [Origamid](https://www.origamid.com), o des
 
 O projeto consiste em praticar Grid Layout.
 
-[Acesse o site aqui](https://jhonnathan-wildbeast.netlify.app/)
+[Acesse o site aqui](https://wildbeastorigamid.vercel.app/)
 ## Demonstração
 
 ![Wildbeast Demo](https://user-images.githubusercontent.com/82620787/174452263-d7053e1f-67f3-40ef-81a2-0d7068bb4287.png)
